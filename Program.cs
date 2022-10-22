@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace dapochemytakslojno
 {
-    internal class Program
+    internal class notProgram
     {
         static void Main(string[] args)
         {
