@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace dapochemytakslojno
+namespace Csharpdlyalohov
 {
-    internal class notProgram
+    internal class Program
     {
         static void Main(string[] args)
         {
@@ -20,7 +20,7 @@ namespace dapochemytakslojno
             int c = 0;
             if (a >= b)
             {
-                Console.WriteLine("Измените интеллект человека который ввёл эти числа");
+                Console.WriteLine("Измените числа");
             }
             else
             {
