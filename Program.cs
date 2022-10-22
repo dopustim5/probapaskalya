@@ -20,7 +20,7 @@ namespace dapochemytakslojno
             int c = 0;
             if (a >= b)
             {
-                Console.WriteLine("Измените числа");
+                Console.WriteLine("Измените интеллект человека который ввёл эти числа");
             }
             else
             {
