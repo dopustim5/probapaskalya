@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ArtemLoh
+namespace nah_idi
 {
     internal class Program
     {
